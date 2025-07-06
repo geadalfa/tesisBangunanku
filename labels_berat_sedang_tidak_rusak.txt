@@ -1,0 +1,3 @@
+Rusak_Berat
+Rusak_Sedang
+Tidak_Rusak
